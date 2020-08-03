@@ -1,14 +1,14 @@
 # CoderDave YouTube Setup and Gear
 
-Since I'm making a lot of YouTube videos (_check out my channel [CoderDave](https://www.youtube.com/CoderDave)_), I've invested in some __good gear__ that you can find down here:
+Since I'm making a lot of YouTube videos (_check out my channel [CoderDave](https://www.youtube.com/CoderDave)_), I've invested in some __good gear__ that you can find down below.
+
+![A6400 Rig](./Images/a6400Rig.jpg)
 
 ## Camera
 
 I wanted to have the clearest image possible, without the need of selling some organs to pay for the camera.
 
 I also wanted the option of using an external mic with my camera (I use a Lav mic in some videos). In addition, I wanted a camera that doesn't have a time limit on video recording (most DSLR and Mirrorless have some limitation) and that of course could record in 4k.
-
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/qa620diwregd618xk8ui.jpg)
 
 I decided to get the __Sony A6400__ after watching hundreds of YouTube videos and reviews.I found a very good deal (Cameras and photo accessories are quite cheap here in Hong Kong), so I went with the body + kit lense option (with the 16mm-50mm lense).
 
@@ -26,10 +26,24 @@ And of course I use a lot of accessories for my camera, I built a small rig.
 
 - Camera Cage - UURig: https://amzn.to/2PgaZ8J
 - Power Bank holder - SmallRig: https://amzn.to/33mbUga
-- Arca Swiss mini clamps - https://amzn.to/2DwWSJC
+- Arca Swiss mini clamps: https://amzn.to/2DwWSJC
+- Variable ND Filter, 5 stops - K&F Concept : https://amzn.to/3i32Bpq
+- Circular Polarizer Filter - K&FConcept: https://amzn.to/3k9IS9w
 - Camera holder for backpack straps - Peak Design - https://amzn.to/31fFD7J
 - Elgato CamLink 4k (to connect the camera to the computer): https://amzn.to/3dhQhz4
 - White balance and color tester - X-Rite ColorChecker Video: https://amzn.to/3k1XdEK
+
+## Microphones
+
+When I'm recording in studio, my main Mic is the same I use in the WFH setup, the __Maono A425 Plus__. It is a decent Cardioid Condenser USB Microphone, with a good response to my voice tones.
+
+![VideoMic NTG](./Images/VideoMicNTG.jpg)
+
+As a secondary Mic, or primary if I'm recording outside of my studio, I have a __Rode VideoMic NTG__, which I think is the best on-camera shotgun Microphone money can buy (at least for now). It is simply amazing, imho way better than the VideoMic PRO+.
+
+You can find them here:
+- Rode VideoMic NTG: https://amzn.to/30nY0s0
+- Maono A425 Plus: https://amzn.to/35C1nMV
 
 ## Lights
 
