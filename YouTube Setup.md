@@ -1,6 +1,10 @@
 # CoderDave YouTube Setup and Gear
 
+> UPDATED: 3 August 2020
+
 Since I'm making a lot of YouTube videos (_check out my channel [CoderDave](https://www.youtube.com/CoderDave)_), I've invested in some __good gear__ that you can find down below.
+
+This is currently my main  Rig:
 
 ![A6400 Rig](./Images/a6400Rig.jpg)
 
