@@ -33,12 +33,14 @@ These are the specs:
 - MOBO: ASUS ROG Crosshair VIII Hero, X570 - https://amzn.to/3i0OEYT
 - PSU: EVGA SuperNOVA 750 G+, 80 Plus Gold 750W, Fully Modular - https://amzn.to/30nDqYy
 - COOLING: Corsair Hydro Series, H115i RGB PLATINUM, 280mm - https://amzn.to/30lY5vY
+- CASE: Cooler Master Silencio S600, Midi Tower - https://amzn.to/2ELgwlB
 
-I published a video on my [YouTube channel](https://www.youtube.com/CoderDave) when building it.
+I published 2 videos on my [YouTube channel](https://www.youtube.com/CoderDave) when building it.
 
-You can take a look at it here:
+You can take a look at them here:
 
-{% youtube K2VaRoK7Zjw %}
+1. Assembling everything: https://youtu.be/tG0O8vsO1LE
+2. Case and finalizing: https://youtu.be/K2VaRoK7Zjw
 
 ## Monitors
 
