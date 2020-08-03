@@ -1,12 +1,12 @@
 # My _Work from Home_ Setup
 
 > UPDATED: 3 August 2020
-
+  
 > NOTE: if you want to see my full __YouTube Studio__ setup, then check the [YouTube Setup description](YouTube%20Setup.md).
 
 Originally this was [a post on my Blog](https://dev.to/n3wt0n/my-home-office-revealed-1l42) after a few people on Twitter asked about my setup. But since things keeps evolving, I decided to host htis here so it will always be up to date.
 
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/uie7f030i6zdeo3idthm.jpg)
+![My Office](./Images/Office.jpg)
 
 This post will break down what I'm currently using in my home office, where I do all my work when not on an airplane.
 
@@ -22,7 +22,7 @@ After years of going only with Laptops (see the _Laptops_ section below), I've r
 
 And wow it is fast!
 
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/bv873hq1uhlmwtnbmugo.jpg)
+![Desktop](./Images/Desktop.jpg)
 
 These are the specs:
 
@@ -46,7 +46,7 @@ As you can see, I'm using a dual-monitor setup.
 
 My monitors of choice are __Benq VZ2350__ 23.5''.
 
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/zwu38ozn6p71sw5osw6k.jpg)
+![Monitors](./Images/Monitors.jpg)
 
 I think they are fantastic monitors at their price range. Not sure I would use it for gaming, but for office-work, coding and video editing they are great.
 
@@ -69,7 +69,7 @@ And the mouse here: https://amzn.to/2EEIhvX
 
 ## Webcams
 
-I have a multi-webcam setup.
+As you can see in the previous image, I have a multi-webcam setup.
 
 My main webcam, which I use for most of my conf-calls and for some _quick'n'dirty_ video recording, is the __Logitech C920__, which is a 1080p cam.
 
@@ -111,6 +111,8 @@ I use 2 headphones, the Microsoft Sirface Headphones and a pair of Razer ones.
 
 The __Microsoft Surface Headphones__ are my main ones when listening to music or for calls when I'm travelling.
 
+![Razer](./Images/Headphones.jp)
+
 The __Razer Kraken USB__ instead is my go-to pair of headphones for whenever I cannot (or don't want to) use the external speakers for calls, videos, etc.
 
 You can find these headphones here:  
@@ -137,7 +139,7 @@ Router - Nighthawk R8000P: https://amzn.to/3k8gWT4
 
 I also use laptops to complement my main desktop workstation.
 
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/rsvvg1zgn8syl7pcsmrv.jpg)
+![Laptops](./Images/Laptops.jpg)
 
 My main laptop is a __Microsoft Surface Laptop 3__, with an Intel i7-1065G7 CPU, 16GB of RAM and 512 GB SSD.
 
@@ -153,7 +155,7 @@ I use this laptop to do maintenance on some old projects that require a ton of l
 
 ## Miscellaneous
 
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/4aizvvi5ywvil9awmy71.jpg)
+![Props](./Images/Props.jpg)
 
 I am a big fan of Doctor Who and Alien... so I simply had to have some props :)
 

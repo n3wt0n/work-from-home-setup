@@ -52,3 +52,5 @@ My secondary light is a __Viltrox VL-200T__, an ultrathin dimmable Bivolor LED l
 ![Viltrox VL-200T](./Images/Viltrox200T.jpg)
 
 You can find this light here: https://amzn.to/2XlqbWq
+
+And BOTH can be controlled by the same remote! Super handy.
