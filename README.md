@@ -113,7 +113,7 @@ I use 2 headphones, the Microsoft Sirface Headphones and a pair of Razer ones.
 
 The __Microsoft Surface Headphones__ are my main ones when listening to music or for calls when I'm travelling.
 
-![Razer](./Images/Headphones.jp)
+![Razer](./Images/Headphones.jpg)
 
 The __Razer Kraken USB__ instead is my go-to pair of headphones for whenever I cannot (or don't want to) use the external speakers for calls, videos, etc.
 
