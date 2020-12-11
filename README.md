@@ -1,6 +1,6 @@
 # My _Work from Home_ Setup
 
-> UPDATED: 8 October 2020
+> UPDATED: 11 November 2020
   
 > NOTE: if you want to see my full __YouTube Studio__ setup, then check the [YouTube Setup description](YouTube%20Setup.md).
 
@@ -26,14 +26,14 @@ And wow it is fast!
 
 These are the specs:
 
-- CPU: AMD Ryzen 9 3950X, 16 cores @ 3.5 Ghz - https://amzn.to/33HfZeC
-- RAM: G.Skill Ripjaws V, 64 Gb DDR4-3200, 16 x 4 Gb - https://amzn.to/3nqCoo9
-- SSD: Corsair MP600, M.2, NVMe, 1 Tb, PCI-Express Gen.4 - https://amzn.to/34BAs3G
-- GPU: Gigabyte NVIDIA GeForce GTX 1650 OC, 4 Gb GDDR5 - https://amzn.to/3ns5jbt
-- MOBO: ASUS ROG Crosshair VIII Hero, X570 - https://amzn.to/2GNhxdI
-- PSU: EVGA SuperNOVA 750 G+, 80 Plus Gold 750W, Fully Modular - https://amzn.to/3jHcZV5
-- COOLING: Corsair Hydro Series, H115i RGB PLATINUM, 280mm - https://amzn.to/2I2BbmF
-- CASE: Cooler Master Silencio S600, Midi Tower - https://amzn.to/33CNkXQ
+- CPU: AMD Ryzen 9 3950X, 16 cores @ 3.5 Ghz - https://geni.us/kHkH
+- RAM: G.Skill Ripjaws V, 64 Gb DDR4-3200, 16 x 4 Gb - https://geni.us/bwpL
+- SSD: Corsair MP600, M.2, NVMe, 1 Tb, PCI-Express Gen.4 - https://geni.us/iToct5
+- GPU: Gigabyte NVIDIA GeForce GTX 1650 OC, 4 Gb GDDR5 - https://geni.us/fXSV5t
+- MOBO: ASUS ROG Crosshair VIII Hero, X570 - https://geni.us/wg8G
+- PSU: EVGA SuperNOVA 750 G+, 80 Plus Gold 750W, Fully Modular - https://geni.us/BKQ7
+- COOLING: Corsair Hydro Series, H115i RGB PLATINUM, 280mm - https://geni.us/BKwADrJ
+- CASE: Cooler Master Silencio S600, Midi Tower - https://geni.us/A76DSyP
 
 I published 2 videos on my [YouTube channel](https://www.youtube.com/CoderDave) when building it.
 
@@ -52,7 +52,7 @@ My monitors of choice are __Benq VZ2350__ 23.5''.
 
 I think they are fantastic monitors at their price range. Not sure I would use it for gaming, but for office-work, coding and video editing they are great.
 
-Unfortunately it seems like they are not avalable anymore anywhere, but those GW2480 should be pretty close: https://amzn.to/3jH3rJG
+Unfortunately it seems like they are not avalable anymore anywhere, but those GW2480 should be pretty close: https://geni.us/snuBEt0
 
 ## Keyboard and Mouse
 
@@ -65,9 +65,9 @@ For the mouse, I went with the __Logitech MX Master 3__, which is fantastic!
 
 And below everything, I have a Logitech large cloth mouse mat.
 
-You can find the keyboard here: https://amzn.to/36DrDce  
-The palm rest here: https://amzn.to/3lopO6Z  
-And the mouse here: https://amzn.to/3iCVow1
+You can find the keyboard here: https://geni.us/RMXB7  
+The palm rest here: https://geni.us/EmTCKRD  
+And the mouse here: https://geni.us/GwwON
 
 ## Webcams
 
@@ -80,8 +80,8 @@ It is a quite good webcam (you can find many reviews online) but unfortunately i
 On my right monitor, I have a second webcam for some more side views. It is a __Microsoft LifeCam HD 3000__, and even tho its resolution is only 720p I have to say that the image quality is pretty nice.
 
 Here are the links to those webcams:  
-Logitech C920 Pro: https://amzn.to/3jGeanr  
-Microsoft LifeCam HD 3000: https://amzn.to/2SCAC56
+Logitech C920 Pro: https://geni.us/QDma5Wf  
+Microsoft LifeCam HD 3000: https://geni.us/CYgKLlt
 
 ## Microphone
 
@@ -93,7 +93,7 @@ The nice thing is that it has all you need in the box: the desk stand with the t
 
 Highly recommended, if you don't need a studio quality mic.
 
-You can find this microphone here: https://amzn.to/33HrhQ1
+You can find this microphone here: https://geni.us/4c0Lon
 
 ## Speaker
 
@@ -105,7 +105,7 @@ I now have a __Logitech Z623__. This thing is a beast.
 
 It's a 200W RMS 2.1 system, THX certified... It's heavy and bulky, but boy it sounds good :)
 
-You can find it here: https://amzn.to/3jJFEZI
+You can find it here: https://geni.us/AI7S
 
 ## Headphones
 
@@ -118,8 +118,8 @@ The __Microsoft Surface Headphones__ are my main ones when listening to music or
 The __Razer Kraken USB__ instead is my go-to pair of headphones for whenever I cannot (or don't want to) use the external speakers for calls, videos, etc.
 
 You can find these headphones here:  
-Surface Headphones: https://amzn.to/2SCAPFq  
-Razer Kraken: https://amzn.to/3d8UPc7  
+Surface Headphones: https://geni.us/PBoyefE  
+Razer Kraken: https://geni.us/vRxoV  
 
 ## Network: NAS, Switch, Wifi and Router
 
@@ -133,9 +133,9 @@ On the Networking side, I have a __Linksys LGS108__ gigabit switch, with 8 x 1Gb
 My router is a __Nighthawk R8000P__, which is awesome and has also super fast WiFi.
 
 You can find those devices here:  
-Nas - QNAP TS-228A: https://amzn.to/2SDv4rg  
-Switch - Linksys LGS108: https://amzn.to/2GATjDV  
-Router - Nighthawk R8000P: https://amzn.to/36JMBX2   
+Nas - QNAP TS-228A: https://geni.us/MEiia  
+Switch - Linksys LGS108: https://geni.us/wBAYRA  
+Router - Nighthawk R8000P: https://geni.us/7os5Ca   
 
 ## Laptops
 
@@ -149,7 +149,7 @@ I use this when I travel and deliver the engagement at client sites.
 
 I keep all the relevant documents and files on _OneDrive_ so they are automatically shared across al my PCs, and I developed some scripts to synchronize other files and settings. Pretty sweet.
 
-You can buy the Surface Laptop 3 here (with the same config as mine): https://amzn.to/2Fbvdiv
+You can buy the Surface Laptop 3 here (with the same config as mine): https://geni.us/TnzJqd
 
 My secondary laptop is a HP Envy 15, with an Intel i7-4700MQ, 16GB of RAM and 512 GB SSD. Even though this machine is way older than my Surface, its CPU is so powerful that it outperforms the Surface Laptop 3 in some CPU-intensive tasks!
 
@@ -163,9 +163,9 @@ I am a big fan of Doctor Who and Alien... so I simply had to have some props :)
 
 I've tried to collect some links for you:
 
-Doctor Who - Bad Wolf Tardis: https://amzn.to/3jG2tNN  
-Doctor Who - Weeping Angel: https://amzn.to/3lt1LUn  
-Alien - 7'' figurine: https://amzn.to/30KW902  
+Doctor Who - Bad Wolf Tardis: https://geni.us/wsd2C31  
+Doctor Who - Weeping Angel: https://geni.us/UwnrdR  
+Alien - 7'' figurine: https://geni.us/ceT4  
 
 Have I missed something?
 
