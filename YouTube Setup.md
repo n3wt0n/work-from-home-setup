@@ -1,6 +1,6 @@
 # CoderDave YouTube Setup and Gear
 
-> UPDATED: 8 October 2020
+> UPDATED: 11 November 2020
 
 Since I'm making a lot of YouTube videos (_check out my channel [CoderDave](https://www.youtube.com/CoderDave)_), I've invested in some __good gear__ that you can find down below.
 
@@ -20,22 +20,22 @@ I also got a __Sigma 16mm f/1.4__ since it's a highly recommended lens and it do
 
 You can find them here:
 
-- Sony a6400 body + 16-35mm: https://amzn.to/3jG0BVh
-- Sigma 16mm f1.4 lens: https://amzn.to/36GN2kC
-- Sigma 24-70mm f2.8 lens: https://amzn.to/2SDvJsK
+- Sony a6400 body + 16-35mm: https://geni.us/i3tTytL
+- Sigma 16mm f1.4 lens: https://geni.us/jEHXHkX
+- Sigma 24-70mm f2.8 lens: https://geni.us/3N5Raf
 
 ## Rig and Accessories
 
 And of course I use a lot of accessories for my camera, I built a small rig.
 
-- Camera Cage - UURig: https://amzn.to/2GPS83q
-- Power Bank holder - SmallRig: https://amzn.to/3d5FXeM
-- Arca Swiss mini clamps: https://amzn.to/33GLxks
-- Variable ND Filter, 5 stops - K&F Concept : https://amzn.to/3nsPnWt
-- Circular Polarizer Filter - K&FConcept: https://amzn.to/33GtNG5
-- Camera holder for backpack straps - Peak Design: https://amzn.to/2F8YrOO 
-- Elgato CamLink 4k (to connect the camera to the computer): https://amzn.to/3nuGYSg
-- White balance and color tester - X-Rite ColorChecker Video: https://amzn.to/2GQMEFh
+- Camera Cage - UURig: https://geni.us/T7AB0os
+- Power Bank holder - https://geni.us/sTh9
+- Arca Swiss mini clamps: https://geni.us/w9U6d
+- Variable ND Filter, 5 stops - K&F Concept : https://geni.us/CIGtigM
+- Circular Polarizer Filter - K&FConcept: https://geni.us/eAeN
+- Camera holder for backpack straps - Peak Design: https://geni.us/3SSsY 
+- Elgato CamLink 4k (to connect the camera to the computer): https://geni.us/w3G6
+- White balance and color tester - X-Rite ColorChecker Video: https://geni.us/B7OELJ
 
 ## Microphones
 
@@ -46,8 +46,8 @@ When I'm recording in studio, my main Mic is the same I use in the WFH setup, th
 As a secondary Mic, or primary if I'm recording outside of my studio, I have a __Rode VideoMic NTG__, which I think is the best on-camera shotgun Microphone money can buy (at least for now). It is simply amazing, imho way better than the VideoMic PRO+.
 
 You can find them here:
-- Rode VideoMic NTG: https://amzn.to/36MuxeH
-- Maono AU-A04 Plus: https://amzn.to/33HrhQ1
+- Rode VideoMic NTG: https://geni.us/w922O2
+- Maono AU-A04 Plus: https://geni.us/4c0Lon
 
 ## Lights
 
@@ -69,6 +69,6 @@ My secondary light is a __Viltrox VL-200T__, an ultrathin dimmable Bivolor LED l
 
 ![Viltrox VL-200T](./Images/Viltrox200T.jpg)
 
-You can find this light here: https://amzn.to/3iDUEHa
+You can find this light here: https://geni.us/Y2vr9Tz
 
 And BOTH can be controlled by the same remote! Super handy.
